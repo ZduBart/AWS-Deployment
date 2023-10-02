@@ -5,5 +5,5 @@ django-crispy-forms==1.14.0
 django-tinymce==3.5.0
 sqlparse==0.4.3
 Pillow
-wsgiref
+gunicorn
 psycopg2-binary==2.9.5
